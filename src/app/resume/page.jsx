@@ -42,7 +42,7 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "Educational Background",
   description:
-    "I embarked on my educational Currently, I am pursuing a Bachelor's degree in Computer Science, while also expanding my knowledge through specialized certifications in Full Stack Web Development and Cloud Computing.",
+    "I am pursuing a Bachelor's degree in Computer Science, while also expanding my knowledge through specialized certifications in Full Stack Web Development and Cloud Computing.",
   items: [
     {
       institution: "Governor Intaitive For Ai and Cloud Computing",
