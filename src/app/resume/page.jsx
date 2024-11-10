@@ -50,7 +50,7 @@ const education = {
       duration: "2023 - 2025",
     },
     {
-      institution: "SMIU",
+      institution: "SMIT",
       degree: "Web Development Diploma",
       duration: "2024 - 2025",
     },
